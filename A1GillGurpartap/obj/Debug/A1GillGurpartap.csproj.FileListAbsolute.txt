@@ -1,0 +1,9 @@
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\bin\Debug\A1GillGurpartap.exe.config
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\bin\Debug\A1GillGurpartap.exe
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\bin\Debug\A1GillGurpartap.pdb
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.csprojAssemblyReference.cache
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.formPlay.resources
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.Properties.Resources.resources
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.csproj.GenerateResource.cache
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.exe
+C:\Users\Gps\Documents\sem4\#c\A1GillGurpartap\A1GillGurpartap\obj\Debug\A1GillGurpartap.pdb
